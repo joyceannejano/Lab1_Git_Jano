@@ -1,2 +1,2 @@
 # Lab 1 Activity
-This repository belong to Jano
+This repository belongs to Jano
